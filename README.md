@@ -1,1 +1,0 @@
-# Yocktail - Interaction Programming project
